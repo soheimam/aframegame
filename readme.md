@@ -1,3 +1,6 @@
-// This file requires a http server to run 
-// currenlty i use VS Code plug in 
-[download](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+Game created at A-Frame workshop  at JS-CAMP.
+
+Learning outcomes :
+Learning to set up a A-Frame project from scratch
+Creating game logic with JS 
+Learning VR fundamentals
