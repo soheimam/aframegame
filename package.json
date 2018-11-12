@@ -4,7 +4,8 @@
   "description": "// This file requires a http server to run  // currenlty i use VS Code plug in  [download](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)",
   "main": "game.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
